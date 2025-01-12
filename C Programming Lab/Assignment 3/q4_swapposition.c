@@ -16,5 +16,5 @@ int main()
         swap(&arr[i], &arr[i + 1]);
     }
 
-    printarray(arr, 6);
+    printIntArray(arr, 6);
 }
